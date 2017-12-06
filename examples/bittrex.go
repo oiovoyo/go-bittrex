@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/toorop/go-bittrex"
+	"github.com/oiovoyo/go-bittrex"
 )
 
 const (
